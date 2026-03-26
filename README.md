@@ -102,6 +102,7 @@ Creo en la tecnología como una herramienta de transformación y en el aprendiza
 
 ## 🔗 Contacto
 💼 Gmail: sofiajimenez712@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/sofia-jimenez-a2b2092b4
 
 ---
