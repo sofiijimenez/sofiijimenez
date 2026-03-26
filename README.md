@@ -1,7 +1,4 @@
 <h1 align="center">🌸 Sofía Jiménez 🌸</h1>
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/ffc0cb/ffffff?text=Sofía+Jiménez" />
-</p>
 
 <p align="center">
 💖 Estudiante de Ingeniería Informática 💖 <br>
