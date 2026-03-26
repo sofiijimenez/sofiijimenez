@@ -1,6 +1,14 @@
 <h1 align="center">🌸 Sofía Jiménez 🌸</h1>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Sofía%20Jiménez-ff69b4?style=for-the-badge"/>
+</p>
+
+<h3 align="center">
+💖 Estudiante de Ingeniería Informática | QA | Ciberseguridad 💖
+</h3>
+
+<p align="center">
 💖 Estudiante de Ingeniería Informática 💖 <br>
 🧪 Interés en Testing de Software (QA) <br>
 🔐 Formación en Ciberseguridad
