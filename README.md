@@ -1,18 +1,33 @@
-# 👋 Hola, soy Sofía
+<h1 align="center">🌸 Sofía Jiménez 🌸</h1>
 
-Soy estudiante de Ingeniería en Informática, en constante formación dentro del área de tecnología, con un fuerte interés en desarrollar mi perfil profesional en el mundo IT.
+<p align="center">
+💖 Estudiante de Ingeniería Informática 💖 <br>
+🧪 Interés en Testing de Software (QA) <br>
+🔐 Formación en Ciberseguridad
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/QA-Testing-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IT-Career-ff69b4?style=for-the-badge"/>
+</p>
 
 ---
 
-## 💻 Intereses profesionales
+## 💻 Sobre mí
 
-Actualmente me estoy enfocando en:
+Soy estudiante de Ingeniería Informática, actualmente en formación dentro del área de tecnología, con un fuerte interés en desarrollarme profesionalmente en el sector IT.
+
+Me interesa comprender cómo funcionan los sistemas, cómo pueden fallar y cómo mejorar su calidad y seguridad, combinando una mirada analítica con aprendizaje constante.
+
+---
+
+## 🎯 Intereses profesionales
 
 - 🧪 Testing de Software (QA)
 - 🔐 Ciberseguridad
-- 📊 Comprensión de sistemas y procesos tecnológicos
-
-Me interesa entender cómo funcionan los sistemas, cómo pueden fallar y cómo mejorar su calidad y seguridad.
+- 💡 Análisis de sistemas
+- 📊 Calidad de software
 
 ---
 
@@ -20,23 +35,24 @@ Me interesa entender cómo funcionan los sistemas, cómo pueden fallar y cómo m
 
 - 🎓 Ingeniería en Informática (en curso)
 - 🛡️ Cybersecurity Fundamentals – IBM
-- 🧪 Curso de Testing de Software (formación inicial)
+- 🧪 Curso de Testing de Software
 
 ---
 
 ## 🛠️ Conocimientos
 
-- Fundamentos de programación (Python)
-- Desarrollo web básico (HTML, CSS, JavaScript, PHP)
-- Bases de datos (SQL / MySQL)
+- Python (fundamentos)
+- HTML, CSS, JavaScript (básico)
+- PHP (básico)
+- SQL / MySQL (fundamentos)
 - Lógica de programación
-- Testing manual (casos de prueba, validación de funcionalidades)
+- Testing manual (casos de prueba, validación)
 
 ---
 
-## 🚀 Objetivo profesional
+## 🚀 Objetivo
 
-Me encuentro en búsqueda de mi primera experiencia en el sector IT, con el objetivo de seguir aprendiendo, desarrollarme en entornos reales y aportar compromiso, capacidad analítica y trabajo en equipo.
+Me encuentro en búsqueda de mi primera experiencia en IT, donde pueda seguir aprendiendo, desarrollarme en entornos reales y aportar compromiso, adaptabilidad y capacidad analítica.
 
 ---
 
@@ -44,17 +60,34 @@ Me encuentro en búsqueda de mi primera experiencia en el sector IT, con el obje
 
 - Redes
 - Sistemas operativos
-- Conceptos fundamentales de ciberseguridad
-- Mejores prácticas en testing de software
+- Mejores prácticas en testing
+- Fundamentos de ciberseguridad
 
 ---
 
-## 🤝 Sobre mí
+## 🤝 Habilidades
 
-Me caracterizo por mi compromiso con el aprendizaje continuo, mi capacidad de adaptación y mi interés en comprender los problemas desde una mirada analítica para aportar soluciones.
+- 💬 Comunicación efectiva
+- 👥 Trabajo en equipo
+- 🧠 Pensamiento analítico
+- 📌 Organización
+- 🔄 Adaptabilidad
+- 📚 Aprendizaje continuo
+
+---
+
+## 💖 Motivación
+
+Creo en la tecnología como una herramienta de transformación y en el aprendizaje constante como motor de crecimiento profesional.
 
 ---
 
 ## 🔗 Contacto
 
-- LinkedIn: www.linkedin.com/in/sofia-jimenez-a2b2092b4
+💼 LinkedIn: (pegá acá tu link)
+
+---
+
+<p align="center">
+✨ Gracias por visitar mi perfil ✨
+</p>
