@@ -57,4 +57,4 @@ Me caracterizo por mi compromiso con el aprendizaje continuo, mi capacidad de ad
 
 ## 🔗 Contacto
 
-- LinkedIn: (acá vas a pegar tu link)
+- LinkedIn: www.linkedin.com/in/sofia-jimenez-a2b2092b4
