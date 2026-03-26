@@ -84,7 +84,7 @@ Creo en la tecnología como una herramienta de transformación y en el aprendiza
 
 ## 🔗 Contacto
 
-💼 LinkedIn: (pegá acá tu link)
+💼 LinkedIn: www.linkedin.com/in/sofia-jimenez-a2b2092b4
 
 ---
 
